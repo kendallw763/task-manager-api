@@ -1,7 +1,8 @@
-#Java CRUD API
+# Java CRUD API
 ![image](https://github.com/user-attachments/assets/b4ce44ec-0467-4017-b9f2-dc4de5735be0)
 
 # API End points
+
 ## Create
 <img width="908" alt="CREATE" src="https://github.com/user-attachments/assets/136f9f04-8150-479f-9d17-526bad5ea2e3" />
 
