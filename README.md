@@ -24,6 +24,11 @@
 ## Delete
 <img width="915" alt="DELETE" src="https://github.com/user-attachments/assets/f81a7889-8be0-4c82-bffd-d930d39aad31" />
 
-
+## Resources
+https://spring.io/projects/spring-boot | 
+https://maven.apache.org/what-is-maven.html |
+https://www.postman.com |
+https://www.postgresql.org |
+https://www.jetbrains.com/idea
 
 
