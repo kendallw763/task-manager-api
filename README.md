@@ -1,4 +1,4 @@
-# Java CRUD API
+# CRUD API
 
 ## Tech Stack
 ![image](https://github.com/user-attachments/assets/4239bb5c-8e60-4637-b481-50dfc7ae7af6)
