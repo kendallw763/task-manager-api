@@ -53,8 +53,6 @@ DELETE /api/tasks/{id} – Delete a task
 ## 🦾 Maven Automation 
 Build automation and project management tool used in Java development. It manages a project’s dependencies, builds, and documentation from a single configuration file called the POM (Project Object Model). Maven automatically downloads the libraries your project needs and handles the build lifecycle — making it easier for developers to maintain and share code across different environments.
 
-![image](https://github.com/user-attachments/assets/21fea222-7c60-4c1b-a36d-9b9c8f4f500b)
-
 ## 📦 Docker Support
 Includes a production-ready Dockerfile for containerizing the application and connecting it with a PostgreSQL instance via Docker Compose, enabling easy deployment and testing in isolated environments.
 
