@@ -1,5 +1,5 @@
 # Java CRUD Application – Task Manager API
-A robust backend application built with Java, Spring Boot, PostgreSQL, and Maven, designed to demonstrate core principles of Create, Read, Update, Delete (CRUD) operations through a RESTful API. This project reflects clean architecture practices, modular design, and integration with tools commonly used in real-world enterprise systems.
+A robust backend application built with Java, Spring Boot, PostgreSQL, Swagger, and Maven, designed to demonstrate core principles of Create, Read, Update, Delete (CRUD) operations through a RESTful API. This project reflects clean architecture practices, modular design, and integration with tools commonly used in real-world enterprise systems.
 
 ## 🔧 Tech Stack
 Java 24 – Core programming language
