@@ -11,7 +11,7 @@
 ## Automation 
 ![image](https://github.com/user-attachments/assets/21fea222-7c60-4c1b-a36d-9b9c8f4f500b)
 
-# Complex API End points Testing
+# Complex API End point Testing
 
 ## Create
 <img width="908" alt="CREATE" src="https://github.com/user-attachments/assets/136f9f04-8150-479f-9d17-526bad5ea2e3" />
