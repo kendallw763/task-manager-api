@@ -47,7 +47,7 @@ DELETE /api/tasks/{id} – Delete a task
 ## ✅Delete
 <img width="915" alt="DELETE" src="https://github.com/user-attachments/assets/f81a7889-8be0-4c82-bffd-d930d39aad31" />
 
-# Collaborative Endpoint UI (Swagger)👨🏾 👨🏻 👨🏿 👨🏼
+# 👨🏾 👨🏻 👨🏿 👨🏼 Collaborative Endpoint UI (Swagger)
 ![Screenshot 2025-07-04 at 12 54 29 PM](https://github.com/user-attachments/assets/15c584b2-0e78-4eee-801c-ebc87daec95c)
 
 ## 🦾 Maven Automation 
