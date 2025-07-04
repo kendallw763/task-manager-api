@@ -3,11 +3,15 @@
 ## Tech Stack
 ![image](https://github.com/user-attachments/assets/4239bb5c-8e60-4637-b481-50dfc7ae7af6)
 
+## Collaborative UI
+![image](https://github.com/user-attachments/assets/78203e65-98bc-4ca4-9c13-07786151580c)
+![Screenshot 2025-07-04 at 12 54 29 PM](https://github.com/user-attachments/assets/15c584b2-0e78-4eee-801c-ebc87daec95c)
+
+
 ## Automation 
 ![image](https://github.com/user-attachments/assets/21fea222-7c60-4c1b-a36d-9b9c8f4f500b)
 
-
-# API End points
+# Complex API End points Testing
 
 ## Create
 <img width="908" alt="CREATE" src="https://github.com/user-attachments/assets/136f9f04-8150-479f-9d17-526bad5ea2e3" />
@@ -29,6 +33,7 @@ https://spring.io/projects/spring-boot |
 https://maven.apache.org/what-is-maven.html |
 https://www.postman.com |
 https://www.postgresql.org |
-https://www.jetbrains.com/idea
+https://www.jetbrains.com/idea |
+https://swagger.io
 
 
