@@ -1,5 +1,5 @@
 # Java CRUD API
-![image](https://github.com/user-attachments/assets/b4ce44ec-0467-4017-b9f2-dc4de5735be0)
+![image](https://github.com/user-attachments/assets/4239bb5c-8e60-4637-b481-50dfc7ae7af6)
 
 # API End points
 
