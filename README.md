@@ -1,5 +1,11 @@
 # Java CRUD API
+
+## Tech Stack
 ![image](https://github.com/user-attachments/assets/4239bb5c-8e60-4637-b481-50dfc7ae7af6)
+
+## Automation 
+![image](https://github.com/user-attachments/assets/21fea222-7c60-4c1b-a36d-9b9c8f4f500b)
+
 
 # API End points
 
