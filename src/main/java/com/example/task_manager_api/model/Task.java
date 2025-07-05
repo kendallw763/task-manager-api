@@ -11,7 +11,6 @@ public class Task {
     @Id //field marked as prime key
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
     private String title;
     private String description;
     private boolean completed;
