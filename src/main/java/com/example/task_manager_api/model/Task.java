@@ -8,7 +8,7 @@ import lombok.Data;
 @Data//Lombok annotation to generate getter, setters toString, equals, and hash code
 
 public class Task {
-    @Id //field marked as prime jey
+    @Id //field marked as prime key
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
